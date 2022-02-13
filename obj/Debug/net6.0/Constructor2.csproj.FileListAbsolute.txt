@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\Constructor2\bin\Debug\net6.0\Constructor2.exe
+D:\cat32tw\Desktop\Constructor2\bin\Debug\net6.0\Constructor2.deps.json
+D:\cat32tw\Desktop\Constructor2\bin\Debug\net6.0\Constructor2.runtimeconfig.json
+D:\cat32tw\Desktop\Constructor2\bin\Debug\net6.0\Constructor2.dll
+D:\cat32tw\Desktop\Constructor2\bin\Debug\net6.0\ref\Constructor2.dll
+D:\cat32tw\Desktop\Constructor2\bin\Debug\net6.0\Constructor2.pdb
+D:\cat32tw\Desktop\Constructor2\obj\Debug\net6.0\Constructor2.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\Constructor2\obj\Debug\net6.0\Constructor2.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\Constructor2\obj\Debug\net6.0\Constructor2.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\Constructor2\obj\Debug\net6.0\Constructor2.AssemblyInfo.cs
+D:\cat32tw\Desktop\Constructor2\obj\Debug\net6.0\Constructor2.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\Constructor2\obj\Debug\net6.0\Constructor2.dll
+D:\cat32tw\Desktop\Constructor2\obj\Debug\net6.0\ref\Constructor2.dll
+D:\cat32tw\Desktop\Constructor2\obj\Debug\net6.0\Constructor2.pdb
+D:\cat32tw\Desktop\Constructor2\obj\Debug\net6.0\Constructor2.genruntimeconfig.cache
